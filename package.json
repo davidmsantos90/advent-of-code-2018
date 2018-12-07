@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2018",
+  "version": "1.0.0",
+  "description": "My solutions for the Advent of Code 2018 challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "advent",
+    "code"
+  ],
+  "author": "david.m.santos90@gmail.com",
+  "license": "ISC"
+}
